@@ -6,12 +6,12 @@ INPUT_FILE = "nuvio_config.json"
 OUTPUT_FILE = "nuvio_config_automated.json"
 
 # --- PERSONAL TRACKING CONFIGURATION OVERLAYS ---
-# Restoring clean, native system IDs to stop the Nuvio app crash
-TRAKT_MUMS_LIST = "aiolists-111876-E"
-TRAKT_DADS_LIST = "aiolists-111835-E"
-TRAKT_BETHS_LIST = "aiolists-154041-E"
+# Swapping layout parameters with your precise MdbList direct numerical IDs
+TRAKT_MUMS_LIST = "mdblist.ext_111876"
+TRAKT_DADS_LIST = "mdblist.ext_111835"
+TRAKT_BETHS_LIST = "mdblist.ext_154041"
 
-# Keep standard MdbList IDs safely as they are below
+# Keep your standard trending rows running safely underneath
 MDBLIST_TRENDING_MOVIES = "mdblist.13914" 
 MDBLIST_TRENDING_SERIES = "mdblist.13963"
 
