@@ -6,7 +6,7 @@ INPUT_FILE = "nuvio_config.json"
 OUTPUT_FILE = "nuvio_config_automated.json"
 
 # --- PERSONAL TRACKING CONFIGURATION OVERLAYS ---
-# Your exact Trakt account username and the clean list slugs from your URLs
+# Your exact Trakt username and the slugs matching your URLs
 TRAKT_USERNAME = "andybccuk"
 TRAKT_MUMS_LIST = "mums-tv-shows"
 TRAKT_DADS_LIST = "dads-tv-shows"
@@ -48,15 +48,15 @@ def run_advanced_automation():
                     active_folder = folders.pop(target_idx)
                     folders.insert(0, active_folder)
                     
-        # --- 2. AUTOMATION MODULE: NATIVE TRAKT AD_ON INTEGRATION ---
+        # --- 2. AUTOMATION MODULE: STREMIO NATIVE TRAKT AD_ON ROTATIONS ---
         elif "Our Shows" in title:
-            print(" -> Converting family profile rows into native, instant Trakt nodes...")
+            print(" -> Restructuring family profile rows into native Trakt nodes...")
             for folder in folders:
                 folder_title = folder.get("title", "").lower()
                 sources = folder.get("sources", [])
                 cat_sources = folder.get("catalogSources", [])
                 
-                # Assign the correct direct text list handle
+                # Match folder titles to your target Trakt list strings
                 target_slug = None
                 if "mum" in folder_title:
                     target_slug = TRAKT_MUMS_LIST
@@ -67,13 +67,15 @@ def run_advanced_automation():
                 
                 if target_slug:
                     print(f"   -> Mapping native Trakt paths for folder: {folder.get('title')}")
-                    # Construct a lightweight, native Trakt catalog ID block string
-                    native_catalog_id = f"trakt.list.{TRAKT_USERNAME}.{target_slug}"
+                    
+                    # NUVIO FORMAT CORRECTION:
+                    # Native Stremio Trakt addon formats catalog strings as 'username_slug'
+                    native_catalog_id = f"{TRAKT_USERNAME}_{target_slug}"
                     
                     for src in sources + cat_sources:
-                        src["addonId"] = "org.stremio.trakt"
+                        src["addonId"] = "community.trakt"
                         src["catalogId"] = native_catalog_id
-                        src["type"] = "series"  # Restores clean, native series guide data paths
+                        src["type"] = "series"
 
         # --- 3. AUTOMATION MODULE: STREAMING PLATFORM VERIFICATION ---
         elif "Streaming Platforms" in title:
