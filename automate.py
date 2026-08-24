@@ -6,10 +6,11 @@ INPUT_FILE = "nuvio_config.json"
 OUTPUT_FILE = "nuvio_config_automated.json"
 
 # --- PERSONAL TRACKING CONFIGURATION OVERLAYS ---
-# Your exact live MdbList numerical folder tags
-TRAKT_MUMS_LIST = "mdblist.111876"
-TRAKT_DADS_LIST = "mdblist.111835"
-TRAKT_BETHS_LIST = "mdblist.154041"
+# Your exact Trakt account username and the clean list slugs from your URLs
+TRAKT_USERNAME = "andybccuk"
+TRAKT_MUMS_LIST = "mums-tv-shows"
+TRAKT_DADS_LIST = "dads-tv-shows"
+TRAKT_BETHS_LIST = "beths-tv-shows"
 
 def run_advanced_automation():
     print("Initializing Cloud Automation Sync Engine...")
@@ -47,31 +48,32 @@ def run_advanced_automation():
                     active_folder = folders.pop(target_idx)
                     folders.insert(0, active_folder)
                     
-        # --- 2. AUTOMATION MODULE: FAMILY TRACKING DIRECT AD_ON OVERRIDES ---
+        # --- 2. AUTOMATION MODULE: NATIVE TRAKT AD_ON INTEGRATION ---
         elif "Our Shows" in title:
-            print(" -> Transforming family profile rows into native MdbList nodes...")
+            print(" -> Converting family profile rows into native, instant Trakt nodes...")
             for folder in folders:
                 folder_title = folder.get("title", "").lower()
                 sources = folder.get("sources", [])
                 cat_sources = folder.get("catalogSources", [])
                 
-                # Assign the correct direct catalog ID number
-                target_id = None
+                # Assign the correct direct text list handle
+                target_slug = None
                 if "mum" in folder_title:
-                    target_id = TRAKT_MUMS_LIST
+                    target_slug = TRAKT_MUMS_LIST
                 elif "dad" in folder_title:
-                    target_id = TRAKT_DADS_LIST
+                    target_slug = TRAKT_DADS_LIST
                 elif "beth" in folder_title:
-                    target_id = TRAKT_BETHS_LIST
+                    target_slug = TRAKT_BETHS_LIST
                 
-                if target_id:
-                    print(f"   -> Remapping framework engines for folder: {folder.get('title')}")
-                    # Loop through Nuvio's internal sources block and change the core engine parameters
+                if target_slug:
+                    print(f"   -> Mapping native Trakt paths for folder: {folder.get('title')}")
+                    # Construct a lightweight, native Trakt catalog ID block string
+                    native_catalog_id = f"trakt.list.{TRAKT_USERNAME}.{target_slug}"
+                    
                     for src in sources + cat_sources:
-                        src["addonId"] = "aio-metadata"
-                        src["catalogId"] = target_id
-                        if "type" in src and src["type"] == "series":
-                            src["type"] = "All Series on Netflix" # Standardizes query parsing paths
+                        src["addonId"] = "org.stremio.trakt"
+                        src["catalogId"] = native_catalog_id
+                        src["type"] = "series"  # Restores clean, native series guide data paths
 
         # --- 3. AUTOMATION MODULE: STREAMING PLATFORM VERIFICATION ---
         elif "Streaming Platforms" in title:
@@ -94,7 +96,7 @@ def run_advanced_automation():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
         
-    print(f"\n[SUCCESS] Direct MdbList architecture compiled cleanly: '{OUTPUT_FILE}'")
+    print(f"\n[SUCCESS] Native Trakt core architecture compiled cleanly: '{OUTPUT_FILE}'")
 
 if __name__ == "__main__":
     run_advanced_automation()
