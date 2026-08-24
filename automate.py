@@ -5,6 +5,15 @@ from datetime import datetime
 INPUT_FILE = "nuvio_config.json"
 OUTPUT_FILE = "nuvio_config_automated.json"
 
+
+# --- PERSONAL TRACKING CONFIGURATION OVERLAYS ---
+TRAKT_MUMS_LIST = "mums-tv-shows"
+TRAKT_DADS_LIST = "dads-tv-shows"
+TRAKT_BETHS_LIST = "beths-tv-shows"
+
+MDBLIST_TRENDING_MOVIES = "mdblist.13914" 
+MDBLIST_TRENDING_SERIES = "mdblist.13963"
+
 def run_advanced_automation():
     print("Initializing Cloud Automation Sync Engine...")
     
