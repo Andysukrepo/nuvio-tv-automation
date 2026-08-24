@@ -10,9 +10,9 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "org.stremio.trakt",
+            "addonId": "community.trakt",
             "provider": "addon",
-            "catalogId": "trakt.list.andybccuk.mums-tv-shows"
+            "catalogId": "andybccuk_mums-tv-shows"
           }
         ],
         "hideTitle": true,
@@ -26,8 +26,8 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "org.stremio.trakt",
-            "catalogId": "trakt.list.andybccuk.mums-tv-shows"
+            "addonId": "community.trakt",
+            "catalogId": "andybccuk_mums-tv-shows"
           }
         ],
         "focusGifEnabled": false,
@@ -40,9 +40,9 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "org.stremio.trakt",
+            "addonId": "community.trakt",
             "provider": "addon",
-            "catalogId": "trakt.list.andybccuk.dads-tv-shows"
+            "catalogId": "andybccuk_dads-tv-shows"
           }
         ],
         "hideTitle": true,
@@ -56,8 +56,8 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "org.stremio.trakt",
-            "catalogId": "trakt.list.andybccuk.dads-tv-shows"
+            "addonId": "community.trakt",
+            "catalogId": "andybccuk_dads-tv-shows"
           }
         ],
         "focusGifEnabled": false,
@@ -70,9 +70,9 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "org.stremio.trakt",
+            "addonId": "community.trakt",
             "provider": "addon",
-            "catalogId": "trakt.list.andybccuk.beths-tv-shows"
+            "catalogId": "andybccuk_beths-tv-shows"
           }
         ],
         "hideTitle": true,
@@ -86,8 +86,8 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "org.stremio.trakt",
-            "catalogId": "trakt.list.andybccuk.beths-tv-shows"
+            "addonId": "community.trakt",
+            "catalogId": "andybccuk_beths-tv-shows"
           }
         ],
         "focusGifEnabled": false,
