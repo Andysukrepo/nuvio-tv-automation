@@ -10,7 +10,7 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "com.linvo.cinemeta",
+            "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.andybccuk.mums-tv-shows"
           }
@@ -26,7 +26,7 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "com.linvo.cinemeta",
+            "addonId": "aio-metadata",
             "catalogId": "trakt.list.andybccuk.mums-tv-shows"
           }
         ],
@@ -40,7 +40,7 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "com.linvo.cinemeta",
+            "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.andybccuk.dads-tv-shows"
           }
@@ -56,7 +56,7 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "com.linvo.cinemeta",
+            "addonId": "aio-metadata",
             "catalogId": "trakt.list.andybccuk.dads-tv-shows"
           }
         ],
@@ -70,7 +70,7 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "com.linvo.cinemeta",
+            "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.andybccuk.beths-tv-shows"
           }
@@ -86,7 +86,7 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "com.linvo.cinemeta",
+            "addonId": "aio-metadata",
             "catalogId": "trakt.list.andybccuk.beths-tv-shows"
           }
         ],
