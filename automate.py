@@ -48,9 +48,9 @@ def run_advanced_automation():
                     active_folder = folders.pop(target_idx)
                     folders.insert(0, active_folder)
                     
-        # --- 2. AUTOMATION MODULE: NATIVE PARSING ENGINE OVERRIDES ---
+        # --- 2. AUTOMATION MODULE: AIOMETADATA USER LIST INJECTIONS ---
         elif "Our Shows" in title:
-            print(" -> Restructuring family profile rows into native metadata nodes...")
+            print(" -> Restructuring family profile rows into aiometadata Trakt nodes...")
             for folder in folders:
                 folder_title = folder.get("title", "").lower()
                 sources = folder.get("sources", [])
@@ -66,14 +66,14 @@ def run_advanced_automation():
                     target_slug = TRAKT_BETHS_LIST
                 
                 if target_slug:
-                    print(f"   -> Mapping native metadata paths for folder: {folder.get('title')}")
+                    print(f"   -> Mapping aiometadata Trakt paths for folder: {folder.get('title')}")
                     
-                    # NUVIO CACHE FIXED VALUE:
-                    # Using 'com.linvo.cinemeta' forces Nuvio's internal engine to bypass addon bottlenecks
+                    # AIOMETADATA USER LIST SYNTAX RULE:
+                    # Formatted as: 'trakt.list.username.list-slug'
                     native_catalog_id = f"trakt.list.{TRAKT_USERNAME}.{target_slug}"
                     
                     for src in sources + cat_sources:
-                        src["addonId"] = "com.linvo.cinemeta"
+                        src["addonId"] = "aio-metadata"
                         src["catalogId"] = native_catalog_id
                         src["type"] = "series"
 
@@ -98,7 +98,7 @@ def run_advanced_automation():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
         
-    print(f"\n[SUCCESS] Native core architecture compiled cleanly: '{OUTPUT_FILE}'")
+    print(f"\n[SUCCESS] Custom files updated and written to disk: '{OUTPUT_FILE}'")
 
 if __name__ == "__main__":
     run_advanced_automation()
