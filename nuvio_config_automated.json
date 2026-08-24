@@ -8,11 +8,11 @@
         "title": "Mums Shows",
         "sources": [
           {
-            "type": "All Series on Netflix",
+            "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
+            "addonId": "org.stremio.trakt",
             "provider": "addon",
-            "catalogId": "mdblist.111876"
+            "catalogId": "trakt.list.andybccuk.mums-tv-shows"
           }
         ],
         "hideTitle": true,
@@ -24,10 +24,10 @@
         "coverImageUrl": "https://i.ibb.co/Rprs4dvx/MUMS-TV-SHOWSCOVER.png",
         "catalogSources": [
           {
-            "type": "All Series on Netflix",
+            "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.111876"
+            "addonId": "org.stremio.trakt",
+            "catalogId": "trakt.list.andybccuk.mums-tv-shows"
           }
         ],
         "focusGifEnabled": false,
@@ -38,11 +38,11 @@
         "title": "DADS TV SHOWS",
         "sources": [
           {
-            "type": "All Series on Netflix",
+            "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
+            "addonId": "org.stremio.trakt",
             "provider": "addon",
-            "catalogId": "mdblist.111835"
+            "catalogId": "trakt.list.andybccuk.dads-tv-shows"
           }
         ],
         "hideTitle": true,
@@ -54,10 +54,10 @@
         "coverImageUrl": "https://i.ibb.co/kVFrqXC5/DADSCOVER.png",
         "catalogSources": [
           {
-            "type": "All Series on Netflix",
+            "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.111835"
+            "addonId": "org.stremio.trakt",
+            "catalogId": "trakt.list.andybccuk.dads-tv-shows"
           }
         ],
         "focusGifEnabled": false,
@@ -68,11 +68,11 @@
         "title": "BETHS TV SHOWS",
         "sources": [
           {
-            "type": "All Series on Netflix",
+            "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
+            "addonId": "org.stremio.trakt",
             "provider": "addon",
-            "catalogId": "mdblist.154041"
+            "catalogId": "trakt.list.andybccuk.beths-tv-shows"
           }
         ],
         "hideTitle": true,
@@ -84,10 +84,10 @@
         "coverImageUrl": "https://i.ibb.co/B2VNyt6R/6.png",
         "catalogSources": [
           {
-            "type": "All Series on Netflix",
+            "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.154041"
+            "addonId": "org.stremio.trakt",
+            "catalogId": "trakt.list.andybccuk.beths-tv-shows"
           }
         ],
         "focusGifEnabled": false,
