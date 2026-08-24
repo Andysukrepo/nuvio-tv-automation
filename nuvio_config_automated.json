@@ -10,9 +10,9 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
+            "addonId": "org.stremio.aiolists",
             "provider": "addon",
-            "catalogId": "trakt.list.andybccuk.mums-tv-shows"
+            "catalogId": "aiolists-111876-E"
           }
         ],
         "hideTitle": true,
@@ -26,8 +26,8 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
-            "catalogId": "trakt.list.andybccuk.mums-tv-shows"
+            "addonId": "org.stremio.aiolists",
+            "catalogId": "aiolists-111876-E"
           }
         ],
         "focusGifEnabled": false,
@@ -40,9 +40,9 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
+            "addonId": "org.stremio.aiolists",
             "provider": "addon",
-            "catalogId": "trakt.list.andybccuk.dads-tv-shows"
+            "catalogId": "aiolists-111835-E"
           }
         ],
         "hideTitle": true,
@@ -56,8 +56,8 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
-            "catalogId": "trakt.list.andybccuk.dads-tv-shows"
+            "addonId": "org.stremio.aiolists",
+            "catalogId": "aiolists-111835-E"
           }
         ],
         "focusGifEnabled": false,
@@ -70,9 +70,9 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
+            "addonId": "org.stremio.aiolists",
             "provider": "addon",
-            "catalogId": "trakt.list.andybccuk.beths-tv-shows"
+            "catalogId": "aiolists-154041-E"
           }
         ],
         "hideTitle": true,
@@ -86,8 +86,8 @@
           {
             "type": "series",
             "genre": "",
-            "addonId": "aio-metadata",
-            "catalogId": "trakt.list.andybccuk.beths-tv-shows"
+            "addonId": "org.stremio.aiolists",
+            "catalogId": "aiolists-154041-E"
           }
         ],
         "focusGifEnabled": false,
