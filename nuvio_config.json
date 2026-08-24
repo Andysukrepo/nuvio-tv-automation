@@ -1,0 +1,4953 @@
+[
+  {
+    "id": "collection-3a610764",
+    "title": "Our Shows",
+    "folders": [
+      {
+        "id": "folder-54364110",
+        "title": "Mums Shows",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "org.stremio.aiolists",
+            "provider": "addon",
+            "catalogId": "aiolists-111876-E"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.ibb.co/XrfrFTYR/MUMS-TV-SHOWSLOGO.png",
+        "coverImageUrl": "https://i.ibb.co/Rprs4dvx/MUMS-TV-SHOWSCOVER.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "org.stremio.aiolists",
+            "catalogId": "aiolists-111876-E"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-176d1576",
+        "title": "DADS TV SHOWS",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "org.stremio.aiolists",
+            "provider": "addon",
+            "catalogId": "aiolists-111835-E"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.ibb.co/HZtCJqj/DADS-TV-SHOWSTITLE.png",
+        "coverImageUrl": "https://i.ibb.co/kVFrqXC5/DADSCOVER.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "org.stremio.aiolists",
+            "catalogId": "aiolists-111835-E"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-8986f521",
+        "title": "BETHS TV SHOWS",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "org.stremio.aiolists",
+            "provider": "addon",
+            "catalogId": "aiolists-154041-E"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.ibb.co/GfhJ0DRt/7.png",
+        "coverImageUrl": "https://i.ibb.co/B2VNyt6R/6.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "org.stremio.aiolists",
+            "catalogId": "aiolists-154041-E"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "backdropImageUrl": "https://i.ibb.co/nMCdFT8m/OUR-TV-SHOWS.png",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-91e309bf",
+    "title": "Streaming Platforms",
+    "folders": [
+      {
+        "id": "folder-0516a7de",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "All Movies on Netflix",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13914"
+          },
+          {
+            "type": "All Series on Netflix",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13963"
+          },
+          {
+            "type": "Netflix Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.netflix.world.movie"
+          },
+          {
+            "type": "Netflix Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.netflix.world.series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/1.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/5.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on Netflix",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13914"
+          },
+          {
+            "type": "All Series on Netflix",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13963"
+          },
+          {
+            "type": "Netflix Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.netflix.world.movie"
+          },
+          {
+            "type": "Netflix Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.netflix.world.series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20Paises/Backdrops%20plataformas/143B02CA-8A95-4BA9-83E1-D70E04753B71.png"
+      },
+      {
+        "id": "folder-e813e067",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "All Movies on Amazon Prime Video",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3308"
+          },
+          {
+            "type": "All Series on Amazon Prime Video",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13964"
+          },
+          {
+            "type": "Prime Video Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.amazon-prime.world.movie"
+          },
+          {
+            "type": "Prime Video Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.amazon-prime.world.series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/2.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/3.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on Amazon Prime Video",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3308"
+          },
+          {
+            "type": "All Series on Amazon Prime Video",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13964"
+          },
+          {
+            "type": "Prime Video Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.amazon-prime.world.movie"
+          },
+          {
+            "type": "Prime Video Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.amazon-prime.world.series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/2245A700-976B-4962-B62D-BB5BED88F621.png"
+      },
+      {
+        "id": "folder-b26b5ce8",
+        "title": "Max",
+        "sources": [
+          {
+            "type": "All Movies on HBO Max",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.137619"
+          },
+          {
+            "type": "All Series on HBO Max",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.5975"
+          },
+          {
+            "type": "Max Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.hbo-max.world.movie"
+          },
+          {
+            "type": "Max Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.hbo-max.world.series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/3.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/4.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on HBO Max",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.137619"
+          },
+          {
+            "type": "All Series on HBO Max",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.5975"
+          },
+          {
+            "type": "Max Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.hbo-max.world.movie"
+          },
+          {
+            "type": "Max Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.hbo-max.world.series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/Recomendado%20(1).png"
+      },
+      {
+        "id": "folder-dbbb084a",
+        "title": "Apple TV+",
+        "sources": [
+          {
+            "type": "All Movies on Apple TV+",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.atp_movie"
+          },
+          {
+            "type": "Apple TV+ Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.apple-tv.world.movie"
+          },
+          {
+            "type": "Apple TV+ Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.apple-tv.world.series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/4.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/6.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on Apple TV+",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_movie"
+          },
+          {
+            "type": "Apple TV+ Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.apple-tv.world.movie"
+          },
+          {
+            "type": "Apple TV+ Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.apple-tv.world.series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/12E431CE-3145-4546-98F2-EAE97030F194.png"
+      },
+      {
+        "id": "folder-00fb2e4e",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "All Movies on Disney+",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp_movie"
+          },
+          {
+            "type": "Disney+ Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.disney.world.movie"
+          },
+          {
+            "type": "Disney+ Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.disney.world.series"
+          },
+          {
+            "type": "Marvel Universe",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3022"
+          },
+          {
+            "type": "Star Wars Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.155432"
+          },
+          {
+            "type": "National Geographic Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.47025"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/5.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/74F3513A-7613-46F5-9203-3EBDBCDC2293.webp",
+        "catalogSources": [
+          {
+            "type": "All Movies on Disney+",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_movie"
+          },
+          {
+            "type": "Disney+ Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.disney.world.movie"
+          },
+          {
+            "type": "Disney+ Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.disney.world.series"
+          },
+          {
+            "type": "Marvel Universe",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3022"
+          },
+          {
+            "type": "Star Wars Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.155432"
+          },
+          {
+            "type": "National Geographic Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.47025"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-f1637f34",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "All Movies on Paramount+",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pmp_movie"
+          },
+          {
+            "type": "Paramount+ Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.paramount.world.movie"
+          },
+          {
+            "type": "Paramount+ Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "flixpatrol.paramount.world.series"
+          },
+          {
+            "type": "Star Trek Universe Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.143870"
+          },
+          {
+            "type": "Yellowstone Universe Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.143090"
+          },
+          {
+            "type": "Nickelodeon Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.47079"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/6.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/Untitled%20design.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on Paramount+",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_movie"
+          },
+          {
+            "type": "Paramount+ Top 10 Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.paramount.world.movie"
+          },
+          {
+            "type": "Paramount+ Top 10 Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "flixpatrol.paramount.world.series"
+          },
+          {
+            "type": "Star Trek Universe Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.143870"
+          },
+          {
+            "type": "Yellowstone Universe Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.143090"
+          },
+          {
+            "type": "Nickelodeon Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.47079"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/6A79BD25-FC7C-46FD-83B0-FE8E1360A2F4.png"
+      },
+      {
+        "id": "folder-983a0505",
+        "title": "Peacock",
+        "sources": [
+          {
+            "type": "All Movies on Peacock",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pcp_movie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/7.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/1.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on Peacock",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pcp_movie"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/E47766E8-32F7-41D5-BF3A-B4CAA143AB97.png"
+      },
+      {
+        "id": "folder-fca3262a",
+        "title": "Discovery+",
+        "sources": [
+          {
+            "type": "All Movies on Paramount+",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pmp_movie"
+          },
+          {
+            "type": "Investigative Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.24712"
+          },
+          {
+            "type": "Top Rated Discovery+ Shows",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.10073359"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/8.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/2.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on Paramount+",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_movie"
+          },
+          {
+            "type": "Investigative Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.24712"
+          },
+          {
+            "type": "Top Rated Discovery+ Shows",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.10073359"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/3E41699A-3315-47B4-90C1-7875F5A62231.png"
+      },
+      {
+        "id": "folder-1de8adb2",
+        "title": "SkyShowtime",
+        "sources": [
+          {
+            "type": "All Movies on SkyShowtime",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.sst_movie"
+          },
+          {
+            "type": "Movies Recommended for you",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.recommendations.movies"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/12.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/7.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on SkyShowtime",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst_movie"
+          },
+          {
+            "type": "Movies Recommended for you",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.recommendations.movies"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/88AC98A5-9F34-4B00-BD83-90FBD019FE87.png"
+      },
+      {
+        "id": "folder-1398d25e",
+        "title": "Hulu",
+        "sources": [
+          {
+            "type": "All Movies on Hulu",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hlu_movie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/11.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/8.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on Hulu",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu_movie"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/057F99A0-31E3-48C8-A00A-BDDC07196F49.png"
+      },
+      {
+        "id": "folder-c5ff6f91",
+        "title": "Crunchyroll",
+        "sources": [
+          {
+            "type": "All Movies on Crunchyroll",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.cru_movie"
+          },
+          {
+            "type": "Crunchyroll Top 100 Rated Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.88381"
+          },
+          {
+            "type": "Crunchyroll Top 100 Rated Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.88257"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/10.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/9.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on Crunchyroll",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.cru_movie"
+          },
+          {
+            "type": "Crunchyroll Top 100 Rated Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88381"
+          },
+          {
+            "type": "Crunchyroll Top 100 Rated Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88257"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/69A234D7-DA7B-4406-9D66-D19E201020DF.png"
+      },
+      {
+        "id": "folder-205cbb10",
+        "title": "MUBI",
+        "sources": [
+          {
+            "type": "All Movies on MUBI",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.mub_movie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATSFORMAS/FINAL/9.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/LOGOS%20PLATAFORMAS/FINAL/10.jpg",
+        "catalogSources": [
+          {
+            "type": "All Movies on MUBI",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.mub_movie"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20plataformas/D54DFDA1-117E-4CD4-A3F7-493DEE7F2D4A.png"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "backdropImageUrl": "https://aiometadata.viren070.me/stremio/cef1d1bf-b250-4691-8fde-bb13e5f47a57/manifest.json",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-cf795284",
+    "title": "Genres",
+    "folders": [
+      {
+        "id": "folder-ea236dfb",
+        "title": "Action",
+        "sources": [
+          {
+            "type": "Top Action Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2407"
+          },
+          {
+            "type": "New Action Releases",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128037"
+          },
+          {
+            "type": "Modern Action",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.SxPNm"
+          },
+          {
+            "type": "1980s Action",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.23274639"
+          },
+          {
+            "type": "Action Movies (2000 - 2020)",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11255166"
+          },
+          {
+            "type": "Top 10 Action Movies Of 21st Century",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4297336"
+          },
+          {
+            "type": "Action Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.825738"
+          },
+          {
+            "type": "Kung Fu Action",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4121497"
+          },
+          {
+            "type": "Superheroes",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4403343"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/4.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/0421162E-28AC-42A0-8A91-FE5751C63F8E.png",
+        "catalogSources": [
+          {
+            "type": "Top Action Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2407"
+          },
+          {
+            "type": "New Action Releases",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128037"
+          },
+          {
+            "type": "Modern Action",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.SxPNm"
+          },
+          {
+            "type": "1980s Action",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.23274639"
+          },
+          {
+            "type": "Action Movies (2000 - 2020)",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11255166"
+          },
+          {
+            "type": "Top 10 Action Movies Of 21st Century",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4297336"
+          },
+          {
+            "type": "Action Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.825738"
+          },
+          {
+            "type": "Kung Fu Action",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4121497"
+          },
+          {
+            "type": "Superheroes",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4403343"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_79184B66-CD1C-42E8-824B-CFE1A4E50FB0.webp"
+      },
+      {
+        "id": "folder-eb65e806",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "Top Drama Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2408"
+          },
+          {
+            "type": "Drama Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3123"
+          },
+          {
+            "type": "Popular Drama",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91296"
+          },
+          {
+            "type": "Korean Dramas",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.5570260"
+          },
+          {
+            "type": "Japanese Dramas",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.5570280"
+          },
+          {
+            "type": "Turkish Dramas",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11806126"
+          },
+          {
+            "type": "Top Rated Drama Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21676562"
+          },
+          {
+            "type": "IMDb's Top Drama Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22847145"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/5.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/DAA84E92-066C-4388-834F-5755E1D4E8D8.png",
+        "catalogSources": [
+          {
+            "type": "Top Drama Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2408"
+          },
+          {
+            "type": "Drama Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3123"
+          },
+          {
+            "type": "Popular Drama",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91296"
+          },
+          {
+            "type": "Korean Dramas",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.5570260"
+          },
+          {
+            "type": "Japanese Dramas",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.5570280"
+          },
+          {
+            "type": "Turkish Dramas",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11806126"
+          },
+          {
+            "type": "Top Rated Drama Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21676562"
+          },
+          {
+            "type": "IMDb's Top Drama Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22847145"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_8225C967-EFF0-4C9C-A677-28F943482572.webp"
+      },
+      {
+        "id": "folder-f20ecfce",
+        "title": "Comedy",
+        "sources": [
+          {
+            "type": "Top Comedy Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2195"
+          },
+          {
+            "type": "Comedy Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3122"
+          },
+          {
+            "type": "New Releases in Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128040"
+          },
+          {
+            "type": "Stand-ups",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.100442"
+          },
+          {
+            "type": "Top 100 TV Comedy Shows",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22097600"
+          },
+          {
+            "type": "British Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1076182"
+          },
+          {
+            "type": "20 Minute Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1492847"
+          },
+          {
+            "type": "Australian Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.24787817"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/13.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/0EF28AC8-61CD-4470-974F-FFB776E60F03.png",
+        "catalogSources": [
+          {
+            "type": "Top Comedy Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2195"
+          },
+          {
+            "type": "Comedy Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3122"
+          },
+          {
+            "type": "New Releases in Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128040"
+          },
+          {
+            "type": "Stand-ups",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.100442"
+          },
+          {
+            "type": "Top 100 TV Comedy Shows",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22097600"
+          },
+          {
+            "type": "British Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1076182"
+          },
+          {
+            "type": "20 Minute Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1492847"
+          },
+          {
+            "type": "Australian Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.24787817"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_998BD409-361F-4711-974D-7EB0E6347EC2.webp"
+      },
+      {
+        "id": "folder-f593859d",
+        "title": "Thriller",
+        "sources": [
+          {
+            "type": "Popular Thriller Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91893"
+          },
+          {
+            "type": "Popular Thriller Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91894"
+          },
+          {
+            "type": "New Thriller Releases",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128049"
+          },
+          {
+            "type": "Psychological Thriller",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3995"
+          },
+          {
+            "type": "Espionage Thrillers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.25486050"
+          },
+          {
+            "type": "IMDb's Top Thriller Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22847415"
+          },
+          {
+            "type": "50 Best Indian Psychological Thriller Films",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.28527050"
+          },
+          {
+            "type": "Political Thrillers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1343915"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/1-converted-from-png%20(1).webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/37C9A920-0EB4-46C5-AD5B-763A3E690011.png",
+        "catalogSources": [
+          {
+            "type": "Popular Thriller Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91893"
+          },
+          {
+            "type": "Popular Thriller Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91894"
+          },
+          {
+            "type": "New Thriller Releases",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128049"
+          },
+          {
+            "type": "Psychological Thriller",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3995"
+          },
+          {
+            "type": "Espionage Thrillers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.25486050"
+          },
+          {
+            "type": "IMDb's Top Thriller Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22847415"
+          },
+          {
+            "type": "50 Best Indian Psychological Thriller Films",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.28527050"
+          },
+          {
+            "type": "Political Thrillers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1343915"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/Backdrop%20Generos_FINAL_DA8241EC-4EE4-4374-8867-ED25EB04D84A-converted-from-png.webp"
+      },
+      {
+        "id": "folder-27daa96d",
+        "title": "Horror",
+        "sources": [
+          {
+            "type": "Top Horror Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2410"
+          },
+          {
+            "type": "New Horror Releases",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128045"
+          },
+          {
+            "type": "Horror Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3124"
+          },
+          {
+            "type": "Rotten Tomatoes: Best Horror Movies Of All Time",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4203408"
+          },
+          {
+            "type": "The Horror Club: The Best Of Slasher Flicks",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.2067889"
+          },
+          {
+            "type": "Hidden Horror Gems",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22535146"
+          },
+          {
+            "type": "French Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.23445415"
+          },
+          {
+            "type": "Asian Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.2768146"
+          },
+          {
+            "type": "Japanese Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.819973"
+          },
+          {
+            "type": "Classic Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.10563394"
+          },
+          {
+            "type": "Comedy Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.23423498"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/10.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/114963B3-EB84-4E9C-831C-A2A6C2D31514.png",
+        "catalogSources": [
+          {
+            "type": "Top Horror Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2410"
+          },
+          {
+            "type": "New Horror Releases",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128045"
+          },
+          {
+            "type": "Horror Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3124"
+          },
+          {
+            "type": "Rotten Tomatoes: Best Horror Movies Of All Time",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4203408"
+          },
+          {
+            "type": "The Horror Club: The Best Of Slasher Flicks",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2067889"
+          },
+          {
+            "type": "Hidden Horror Gems",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22535146"
+          },
+          {
+            "type": "French Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.23445415"
+          },
+          {
+            "type": "Asian Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2768146"
+          },
+          {
+            "type": "Japanese Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.819973"
+          },
+          {
+            "type": "Classic Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.10563394"
+          },
+          {
+            "type": "Comedy Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.23423498"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_607BE704-87F0-4F05-B3B2-223A45E0FE4F.webp"
+      },
+      {
+        "id": "folder-0de37c42",
+        "title": "Fantasy & Sci-Fi",
+        "sources": [
+          {
+            "type": "Top Fantasy/Sci-Fi Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2412"
+          },
+          {
+            "type": "Fantasy Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.6607"
+          },
+          {
+            "type": "Best Fantasy Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.24624565"
+          },
+          {
+            "type": "Classic Sci-Fi & Fantasy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1588607"
+          },
+          {
+            "type": "Fantasy: Swords, Sorcery, and Celluloid",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.3572166"
+          },
+          {
+            "type": "Dark Fantasy Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.2041885"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/12.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/0FDE084E-A544-45D3-914F-F176FA993EAD.png",
+        "catalogSources": [
+          {
+            "type": "Top Fantasy/Sci-Fi Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2412"
+          },
+          {
+            "type": "Fantasy Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.6607"
+          },
+          {
+            "type": "Best Fantasy Comedy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.24624565"
+          },
+          {
+            "type": "Classic Sci-Fi & Fantasy",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1588607"
+          },
+          {
+            "type": "Fantasy: Swords, Sorcery, and Celluloid",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.3572166"
+          },
+          {
+            "type": "Dark Fantasy Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2041885"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_09E15139-4E9E-49F1-8B1E-F44FAAA8C80D.webp"
+      },
+      {
+        "id": "folder-7b07b4c0",
+        "title": "Romance",
+        "sources": [
+          {
+            "type": "Popular Romance Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128262"
+          },
+          {
+            "type": "Popular Romance Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128265"
+          },
+          {
+            "type": "New Romance Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128264"
+          },
+          {
+            "type": "Best of Romance",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2837"
+          },
+          {
+            "type": "Romantic Comedies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6678796"
+          },
+          {
+            "type": "Teen Romance",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4757107"
+          },
+          {
+            "type": "Wartime Romance",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.25318901"
+          },
+          {
+            "type": "Romance, Fantasy & Comedy Crossovers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.24624570"
+          },
+          {
+            "type": "Forbidden Love in Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11142103"
+          },
+          {
+            "type": "IMDb's Top Romance Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22847343"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/9.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/E5894D97-A46E-4210-A81A-BCAFF20B6408.png",
+        "catalogSources": [
+          {
+            "type": "Popular Romance Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128262"
+          },
+          {
+            "type": "Popular Romance Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128265"
+          },
+          {
+            "type": "New Romance Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128264"
+          },
+          {
+            "type": "Best of Romance",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2837"
+          },
+          {
+            "type": "Romantic Comedies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6678796"
+          },
+          {
+            "type": "Teen Romance",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4757107"
+          },
+          {
+            "type": "Wartime Romance",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.25318901"
+          },
+          {
+            "type": "Romance, Fantasy & Comedy Crossovers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.24624570"
+          },
+          {
+            "type": "Forbidden Love in Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11142103"
+          },
+          {
+            "type": "IMDb's Top Romance Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22847343"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_EF412612-0C46-4B65-B6A8-517D9513A38A-converted-from-png%20(1).webp"
+      },
+      {
+        "id": "folder-abda4cc0",
+        "title": "Animation",
+        "sources": [
+          {
+            "type": "Popular Animation Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.121922"
+          },
+          {
+            "type": "Popular Animation Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.121921"
+          },
+          {
+            "type": "Adult Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.8150"
+          },
+          {
+            "type": "Pixar Animation Studios",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1522155"
+          },
+          {
+            "type": "Dreamworks Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1580797"
+          },
+          {
+            "type": "Sony Pictures Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.23334961"
+          },
+          {
+            "type": "Hidden Animation Gems",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.3899489"
+          },
+          {
+            "type": "IMDb's Top Animation Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22847039"
+          },
+          {
+            "type": "Warner Bros Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.837518"
+          },
+          {
+            "type": "Japanese Anime Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.23471533"
+          },
+          {
+            "type": "Fox Adult Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.26321637"
+          },
+          {
+            "type": "Garfield Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22517757"
+          },
+          {
+            "type": "Scooby-Doo Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22403154"
+          },
+          {
+            "type": "Shrek Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.dcofG"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/8.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/45E2E168-3689-494B-A01A-CCDB2B03B8A0.png",
+        "catalogSources": [
+          {
+            "type": "Popular Animation Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.121922"
+          },
+          {
+            "type": "Popular Animation Series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.121921"
+          },
+          {
+            "type": "Adult Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.8150"
+          },
+          {
+            "type": "Pixar Animation Studios",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1522155"
+          },
+          {
+            "type": "Dreamworks Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1580797"
+          },
+          {
+            "type": "Sony Pictures Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.23334961"
+          },
+          {
+            "type": "Hidden Animation Gems",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.3899489"
+          },
+          {
+            "type": "IMDb's Top Animation Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22847039"
+          },
+          {
+            "type": "Warner Bros Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.837518"
+          },
+          {
+            "type": "Japanese Anime Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.23471533"
+          },
+          {
+            "type": "Fox Adult Animation",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.26321637"
+          },
+          {
+            "type": "Garfield Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22517757"
+          },
+          {
+            "type": "Scooby-Doo Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22403154"
+          },
+          {
+            "type": "Shrek Collection",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.dcofG"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/FABA3ACF-C639-4BB1-A79B-B677B74654DF.png"
+      },
+      {
+        "id": "folder-84df6ac2",
+        "title": "Concerts & Music",
+        "sources": [
+          {
+            "type": "Music Concerts & Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21190773"
+          },
+          {
+            "type": "Music Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21992099"
+          },
+          {
+            "type": "Live Concerts & Music",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11571354"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/7.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/0F6369F9-488D-45BD-B334-6031AEEB3017.png",
+        "catalogSources": [
+          {
+            "type": "Music Concerts & Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21190773"
+          },
+          {
+            "type": "Music Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21992099"
+          },
+          {
+            "type": "Live Concerts & Music",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11571354"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_8FC7A1FB-1CC9-4B97-A13B-87E8EBDA3CFA.webp"
+      },
+      {
+        "id": "folder-eba616bd",
+        "title": "Documentaries",
+        "sources": [
+          {
+            "type": "True Crime Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1799417"
+          },
+          {
+            "type": "Attenborough Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6652017"
+          },
+          {
+            "type": "Rotten Tomatoes: Best Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.10235726"
+          },
+          {
+            "type": "History Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6652940"
+          },
+          {
+            "type": "BBC Wildlife & Nature Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.25298201"
+          },
+          {
+            "type": "Hacking & Programming Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.2565470"
+          },
+          {
+            "type": "Space Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.23020633"
+          },
+          {
+            "type": "War Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.19556363"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/A7D81CD6-7216-4FEB-B7CF-08F5EE4109E4.png",
+        "catalogSources": [
+          {
+            "type": "True Crime Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1799417"
+          },
+          {
+            "type": "Attenborough Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6652017"
+          },
+          {
+            "type": "Rotten Tomatoes: Best Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.10235726"
+          },
+          {
+            "type": "History Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6652940"
+          },
+          {
+            "type": "BBC Wildlife & Nature Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.25298201"
+          },
+          {
+            "type": "Hacking & Programming Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2565470"
+          },
+          {
+            "type": "Space Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.23020633"
+          },
+          {
+            "type": "War Documentaries",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.19556363"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_54BF7CD2-515A-4C7A-987F-F877C69A5368.webp"
+      },
+      {
+        "id": "folder-b254c4dc",
+        "title": "Musicals",
+        "sources": [
+          {
+            "type": "AFI Greatest Movie Musicals",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.2627890"
+          },
+          {
+            "type": "Live Stage Musicals",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22458618"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/11.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/A85DA0E4-49BB-41C2-B848-9A69980FD43D.png",
+        "catalogSources": [
+          {
+            "type": "AFI Greatest Movie Musicals",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2627890"
+          },
+          {
+            "type": "Live Stage Musicals",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22458618"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_E230887C-5253-4372-9307-9AB1C1210AFE-converted-from-png.webp"
+      },
+      {
+        "id": "folder-553b50b8",
+        "title": "Mystery",
+        "sources": [
+          {
+            "type": "Korean Mystery Thrillers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21697354"
+          },
+          {
+            "type": "Investigative Thrillers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.27276733"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/3-converted-from-png%20(1).webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/AC8E9837-A632-44E6-92B0-D0BA7BD77863.png",
+        "catalogSources": [
+          {
+            "type": "Korean Mystery Thrillers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21697354"
+          },
+          {
+            "type": "Investigative Thrillers",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.27276733"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_D9F79A1B-BD16-46F7-B7E4-33C9E7A860D8.webp"
+      },
+      {
+        "id": "folder-4e08c588",
+        "title": "Western",
+        "sources": [],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/6.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/BE7E3112-0339-403E-8588-00AE5A2939AA.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_C232809F-A15C-4C11-B14A-E3D1284CB103.webp"
+      },
+      {
+        "id": "folder-d9628957",
+        "title": "Mafia",
+        "sources": [],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/Logos/2-converted-from-png%20(1).webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/G%C3%A9neros/DECA0487-04AC-48C2-BD16-162E6F79D49F.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrop%20Generos/FINAL/Backdrop%20Generos_FINAL_1E862D2B-59EE-4D07-AA2C-531B51098016.webp"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "ROWS",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-a70744af-community",
+    "title": "‎Genres",
+    "folders": [
+      {
+        "id": "folder-5eed6a5d",
+        "title": "Action",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "10759",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Action",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Action",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "100 Best Action",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 4973644
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1dxNvmeUI7SAm9n1CJu0D8uSo3p5nyXg8",
+        "coverImageUrl": "https://i.postimg.cc/85TB12zQ/Action.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Action",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Action",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-39445f19",
+        "title": "Animation",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Animation",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Animation",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "IMDb's Top Animation",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 22847039
+          },
+          {
+            "title": "Julia Donaldson Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 21779826
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1FTuhYIirwkpVYcTHfWcw73sUpIf2ihIP",
+        "coverImageUrl": "https://i.postimg.cc/QtjkX2d3/Animation.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Animation",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Animation",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "4a9f60be-95e2-419f-bea9-11a2ecaa9ca1",
+        "title": "Anime",
+        "sources": [
+          {
+            "title": "Popular Anime",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 29271069
+          },
+          {
+            "title": "Studio Ghibli",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": 10342,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COMPANY"
+          },
+          {
+            "title": "Studio Ghibli",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": 10342,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "COMPANY"
+          },
+          {
+            "title": "Kyoto Animation",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": 5438,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COMPANY"
+          },
+          {
+            "title": "Kyoto Animation",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": 5438,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "COMPANY"
+          },
+          {
+            "title": "MAPPA",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": 21444,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COMPANY"
+          },
+          {
+            "title": "MAPPA",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": 21444,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "COMPANY"
+          },
+          {
+            "title": "The 100 Best Anime of all time",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 23438792
+          },
+          {
+            "title": "100 Animes to watch before you die",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 5707382
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=10NI2ty9yrC-e41SJ8ZGAiE2KqXSjsNb_",
+        "coverImageUrl": "https://i.postimg.cc/bvdxc0Fk/Anime.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-0cb8dadf",
+        "title": "Comedy",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Comedy",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Comedy",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Comedy",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Comedy",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "Stand-Up Comedy Specials",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 11472817
+          },
+          {
+            "title": "Stand-Up Comedy Specials",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 11472817
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1QZ1IDK9asCqKpN5PS8m_WxR_BakHcIrI",
+        "coverImageUrl": "https://i.postimg.cc/tTDd7BYc/Comedy.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Comedy",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Comedy",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Comedy",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Comedy",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "8eb4a59f-cd61-47dc-b2b8-02bdd1133279",
+        "title": "Documentary",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "99",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "99",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Documentary",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Documentary",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Documentary",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Documentary",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "BFI's Top 100 Documentary Films",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 21873222
+          },
+          {
+            "title": "Louis Theroux Documentary Collection Movies",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 1547
+          },
+          {
+            "title": "The Ultimate True Crime Documentaries",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 1799417
+          },
+          {
+            "title": "The Ultimate True Crime Documentaries",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 1799417
+          },
+          {
+            "title": "History Documentaries",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 6652940
+          },
+          {
+            "title": "History Documentaries",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 6652940
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1QJPm1w5qpYaqf1JEnYeJi7Zo_rNW888x",
+        "coverImageUrl": "https://i.postimg.cc/8cfxbkvz/Documentaries.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Documentary",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Documentary",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Documentary",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Documentary",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-66b89399",
+        "title": "Drama",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Drama - The Essential List",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 21880940
+          },
+          {
+            "title": "Period Drama",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 22957174
+          },
+          {
+            "title": "Period Drama",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 22957174
+          },
+          {
+            "type": "series",
+            "genre": "Drama",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Drama",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "series",
+            "genre": "Drama",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Drama",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1OeG4x4YZ9lYRmiZw4SzBjccOqScXS2zE",
+        "coverImageUrl": "https://i.postimg.cc/W3s62B1j/Drama.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Drama",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Drama",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "series",
+            "genre": "Drama",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Drama",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-46536043",
+        "title": "Family",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Family",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Family",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Family",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Family",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "Rotten Tomatoes: Top 100 Kids & Family",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 20580022
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1mpq4T8jg1kQxMgiBy7XJrr4sWsJkV_qO",
+        "coverImageUrl": "https://i.postimg.cc/rmgGzfDR/Family.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Family",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Family",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Family",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Family",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-59257d91",
+        "title": "Fantasy",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "10765",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "14",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Fantasy",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Fantasy",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "100 Best Fantasy",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 4973947
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1Ci69c42Ow16ezvoBnzySd5Wtt5u8ZPMq",
+        "coverImageUrl": "https://i.postimg.cc/0jQYS7SQ/Fantasy.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Fantasy",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Fantasy",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "a66f5a51-46ff-4b31-8e9b-5eee99f7cedb",
+        "title": "Food",
+        "sources": [
+          {
+            "title": "The Best Cooking Shows Of All Time",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 28393713
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=186FvtD1DfGQ9BtIOuEZLQXnNFq6QEjQH",
+        "coverImageUrl": "https://i.postimg.cc/vTBrn5nf/Food.png",
+        "catalogSources": [],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "9e2e9a4c-ae0f-42c9-aedd-df2a3b669691",
+        "title": "Horror",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "27",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Popular",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 21193458
+          },
+          {
+            "title": "Popular",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 21193458
+          },
+          {
+            "type": "series",
+            "genre": "Horror",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Horror",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "Horror",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 1211468
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=165bBSkdDWBjncGBHr3SE0zwX91hcfC51",
+        "coverImageUrl": "https://i.postimg.cc/KjzPTtTf/Horror.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Horror",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Horror",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "3920efb5-8e73-48ee-b080-78709e0e8ff3",
+        "title": "Musicals",
+        "sources": [
+          {
+            "title": "IMDb's Top Musicals",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 22847279
+          },
+          {
+            "title": "Live on Stage",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 22458618
+          },
+          {
+            "title": "Popular",
+            "sortBy": "popularity",
+            "sortHow": "desc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 4651202
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1BsYk7xKGLGjuVCNwOW_8FcQ9ChwREM_A",
+        "coverImageUrl": "https://i.postimg.cc/KYhBHKgH/Musicals.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-ddf9539a",
+        "title": "Mystery",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Mystery",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Mystery",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Mystery",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Mystery",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "Crime, Mystery & Thriller",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 24054705
+          },
+          {
+            "title": "Crime, Mystery & Thriller",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 24054705
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1ZtGIuVxSe3-iZhv1t_otJKCQuGSy1qVS",
+        "coverImageUrl": "https://i.postimg.cc/wMGhQ35P/Mystery.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Mystery",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Mystery",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Mystery",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Mystery",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-efcb3605",
+        "title": "Nature",
+        "sources": [
+          {
+            "title": "Attenborough Documentaries",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 6652017
+          },
+          {
+            "title": "BBC Earth - Life on our Planet",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 23440324
+          },
+          {
+            "title": "IMDB: Popular Nature Documentaries",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 26957348
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1x-EZhP_IszLINr2tBEISVcVDMarIPy81",
+        "coverImageUrl": "https://i.postimg.cc/7Lm3z775/Nature.png",
+        "catalogSources": [],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-a88aa6f6",
+        "title": "Romance",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "10749",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Romance",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Romance",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Romance",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Romance",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "Mega Erotic",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 21033097
+          },
+          {
+            "title": "Rotten Tomatoes Top 100 Romance",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 20701912
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1dDVyiwZ_UhX2lyvoU8HT3zX-nEkRwxo7",
+        "coverImageUrl": "https://i.postimg.cc/KjHnD4rZ/Romance.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Romance",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Romance",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Romance",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Romance",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-d012fae7",
+        "title": "Sci-Fi",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Sci-Fi",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Sci-Fi",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Sci-Fi",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Sci-Fi",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "100 Greatest Sci-Fi",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 797798
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1gSl6JHJY--Z0HX-6-EWhMWwZWYCSnPO0",
+        "coverImageUrl": "https://i.postimg.cc/NGJ7cPhX/Sci-Fi.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Sci-Fi",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Sci-Fi",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Sci-Fi",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Sci-Fi",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3a8c2787",
+        "title": "Space",
+        "sources": [
+          {
+            "title": "Astronomy and Cosmology",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 3813071
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1-KiLdDJId4j29QgpSxvXn6RfCPToKrDs",
+        "coverImageUrl": "https://i.postimg.cc/Xv17qYKk/Space.png",
+        "catalogSources": [],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-de2c299b",
+        "title": "Thriller",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "53",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Thriller",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Thriller",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Thriller",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Thriller",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "Top 200 Psychological Thrillers",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 22096238
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1MPHKBR2QIwrCWU9Ir_sLRbz_T7ZrjCjO",
+        "coverImageUrl": "https://i.postimg.cc/v8qLsSRj/Thriller.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Thriller",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Thriller",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Thriller",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Thriller",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "be6f0d29-5862-4b7e-8ee9-8d18f13b9cd9",
+        "title": "War",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "10752",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "War",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "War",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "War",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "War",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "Ranker: The Best War Movies Ever Made",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 4433767
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1khcIurI9a_gPoz4lmJXCziKuFLeyFOTM",
+        "coverImageUrl": "https://i.postimg.cc/tRStjm08/War.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "War",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "War",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "War",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "War",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "de2e6e13-0c8f-4725-a87c-a87076927dfd",
+        "title": "Westerns",
+        "sources": [
+          {
+            "title": "Recent",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Recent",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 1,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "type": "series",
+            "genre": "Western",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Western",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Western",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Western",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "imdbRating"
+          },
+          {
+            "title": "Clint Eastwood Westerns",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 2534947
+          },
+          {
+            "title": "Spaghetti Westerns",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 21899611
+          },
+          {
+            "title": "Westerns",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 6436692
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1_Ey9wT7I98-sVF_e2rx2zKC4k2xM51TU",
+        "coverImageUrl": "https://i.postimg.cc/y6QXHr44/Western.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Western",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "genre": "Western",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "genre": "Western",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          },
+          {
+            "type": "movie",
+            "genre": "Western",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "imdbRating"
+          }
+        ],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-61597a3c",
+    "title": "Decades",
+    "folders": [
+      {
+        "id": "folder-e6a1ba0a",
+        "title": "1960s",
+        "sources": [
+          {
+            "type": "1960s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55694"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Decadas/D%C3%A9cadas%20final/176FDBD7-4C86-435C-BF32-7EDB76CB2FBA.png",
+        "catalogSources": [
+          {
+            "type": "1960s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55694"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-795f6ca2",
+        "title": "1970s",
+        "sources": [
+          {
+            "type": "1970s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55175"
+          },
+          {
+            "type": "Best of the 1970s",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2820"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Decadas/D%C3%A9cadas%20final/093D35D2-1495-4995-95B0-C0229AA6180D.png",
+        "catalogSources": [
+          {
+            "type": "1970s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55175"
+          },
+          {
+            "type": "Best of the 1970s",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2820"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-8c5e7378",
+        "title": "1980s",
+        "sources": [
+          {
+            "type": "1980s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55174"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Decadas/D%C3%A9cadas%20final/018C84F7-52F5-438B-B115-813AD8B4C692.png",
+        "catalogSources": [
+          {
+            "type": "1980s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55174"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-0fbc161a",
+        "title": "1990s",
+        "sources": [
+          {
+            "type": "1990s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55173"
+          },
+          {
+            "type": "Best of the 1990s",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2818"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Decadas/D%C3%A9cadas%20final/057A5210-3CEA-4DC5-9362-99D78C7E4571.png",
+        "catalogSources": [
+          {
+            "type": "1990s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55173"
+          },
+          {
+            "type": "Best of the 1990s",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2818"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-33465711",
+        "title": "2000s",
+        "sources": [
+          {
+            "type": "2000s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55172"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Decadas/D%C3%A9cadas%20final/7C72CE7A-4BEF-4105-859B-38895D260B7C.png",
+        "catalogSources": [
+          {
+            "type": "2000s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55172"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-259d704d",
+        "title": "2010s",
+        "sources": [
+          {
+            "type": "2010s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55171"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Decadas/D%C3%A9cadas%20final/AD31AAA0-A1D6-43ED-B194-30B90EB4455A.png",
+        "catalogSources": [
+          {
+            "type": "2010s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55171"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5ab4f146",
+        "title": "2020s",
+        "sources": [
+          {
+            "type": "2020s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55170"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Decadas/D%C3%A9cadas%20final/89DCB2B7-EF56-477D-83B8-99629F541866.png",
+        "catalogSources": [
+          {
+            "type": "2020s Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55170"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "966190a9-3785-4ef0-9f1b-883478bf618c-community",
+    "title": "‎Franchises",
+    "folders": [
+      {
+        "id": "72394705-9eaf-4d7d-8533-6b004f5287fe",
+        "title": "Star Wars",
+        "sources": [
+          {
+            "title": "Star Wars Movies",
+            "sortBy": "released",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 22202556
+          },
+          {
+            "title": "Star Wars: Shows & Series",
+            "sortBy": "released",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 22757470
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/L6r64vPj/Star-Wars-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/vHK1D7bP/Star-Wars.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/sDtDfKWJ/Star-Wars-BG.jpg"
+      },
+      {
+        "id": "80a9fb99-3ec1-44ec-bc65-3a7bae8fc392",
+        "title": "Middle Earth",
+        "sources": [
+          {
+            "title": "Middle-Earth",
+            "sortBy": "released",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 1642688
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/XYF97WcJ/Lo-TRLogo.png",
+        "coverImageUrl": "https://i.postimg.cc/qvn2MrXq/Lo-TR-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/BQRx0bFM/Lo-TR-BG.jpg"
+      },
+      {
+        "id": "20f7285a-e5b7-4de3-9fda-046d60850391",
+        "title": "The Wizarding World",
+        "sources": [
+          {
+            "title": "Wizarding World",
+            "sortBy": "released",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 21869828
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/pXgkWq8W/Wizarding-World-of-Harry-Potter-logo.png",
+        "coverImageUrl": "https://i.postimg.cc/xj44xqMB/Wizarding-World-of-Harry-Potter-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/sg7mv79C/Harry-Potter-BG.jpg"
+      },
+      {
+        "id": "3b979d6d-2a1b-4cea-b7c7-a83d39ceb2ea",
+        "title": "Pixar",
+        "sources": [
+          {
+            "title": "Pixar Feature Films",
+            "sortBy": "released",
+            "sortHow": "desc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 801240
+          },
+          {
+            "title": "Pixar Short Films",
+            "sortBy": "released",
+            "sortHow": "desc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 2749609
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/J0Y4Lsdk/Pixar-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/5yrL2sh2/5440db5f-be91-4941-b1ba-4b4ea07b0f25.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/hj6yHJJv/Pixar-BG.jpg"
+      },
+      {
+        "id": "5b8452e4-50c1-4097-8848-08057442438e",
+        "title": "Dreamworks",
+        "sources": [
+          {
+            "title": "Dreamworks Feature Films",
+            "sortBy": "released",
+            "sortHow": "desc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 801242
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/J4QCZCzG/Dream-Works-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/JnVNH8M5/882cf7a8-9aa6-4673-81c1-d3ed7a859e95.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/qqVzFhSX/Dream-Works-BG.jpg"
+      },
+      {
+        "id": "cd74f767-b492-4a4c-a3a4-7296925e15a3",
+        "title": "Marvel",
+        "sources": [
+          {
+            "title": "Marvel Cinematic Universe - Movies (Release Order)",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 22881797
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/XNHCLgb4/Marvel-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/TYKW4WdV/Marvel-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/v8qVhvsn/Marvel-BG.png"
+      },
+      {
+        "id": "4975c018-a714-45d2-8079-49125d6a174b",
+        "title": "DC",
+        "sources": [
+          {
+            "title": "DC Universe Movies",
+            "sortBy": "released",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 1257909
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/3WQ8YQ4b/960px-DC-Comics-logo-svg-png-utm-source-commons-wikimedia.png",
+        "coverImageUrl": "https://i.postimg.cc/BnsSzsGR/DC-Universe.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://www.nuvioapp.space/uploads/covers/ef215e66-54da-4b03-a946-34727ba52766.jpg"
+      },
+      {
+        "id": "52d42c35-ab6c-4f54-9d94-52345fb23391",
+        "title": "Pirates Of The Caribbean",
+        "sources": [
+          {
+            "title": "Pirates of the Caribbean Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 10
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/2SFRdRjw/Piratesof-The-Caribbean-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/4xbkvk41/Piratesof-The-Caribbean-Tile.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/y8X4h46y/Piratesof-The-Caribbean-BG.jpg"
+      },
+      {
+        "id": "403a869c-8362-4101-ba1b-aa22f60202b7",
+        "title": "Back to the Future",
+        "sources": [
+          {
+            "title": "Back to the Future Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 21
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/nzNPb0cb/Backto-The-Future-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/63FmJY5K/Backto-The-Future-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/C19QTmMW/Backto-The-Future-BG.jpg"
+      },
+      {
+        "id": "ecb19f57-2b83-4bfc-8846-45919f9c4bbb",
+        "title": "Indiana Jones",
+        "sources": [
+          {
+            "title": "Indiana Jones Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 15
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/vmWxMmzF/Indiana-Jones-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/k5zCjN89/Indiana-Jones-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/jjmT86NV/Indiana-Jones-BG.jpg"
+      },
+      {
+        "id": "61ed97f0-6598-4230-9261-fc643336779d",
+        "title": "The Matrix",
+        "sources": [
+          {
+            "title": "The Matrix Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 81
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/Kjwfgzgg/The-Matrix-Logo.webp",
+        "coverImageUrl": "https://i.postimg.cc/k43Gpd3c/The-Matrix-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/N0rLDjVL/The-Matrix-BG.jpg"
+      },
+      {
+        "id": "9727214b-b4b2-4967-bb56-522bd9312b3d",
+        "title": "The Hunger Games",
+        "sources": [
+          {
+            "title": "The Hunger Games Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 1605
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/tTPPRBCc/The-Hunger-Games-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/T1DT4WLq/0d7e0b16-0ad8-454e-8de1-31e42781a305.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/JhSZWfmN/The-Hunger-Games-BG.jpg"
+      },
+      {
+        "id": "folder-a225b44b",
+        "title": "The Planet of the Apes",
+        "sources": [
+          {
+            "title": "Planet of the Apes (Reboot) Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 1531
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/9My83FdH/Planetof-The-Apes-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/9FvGHPkB/a453ea55-5840-4dea-a6b8-bc2ba0a1e481.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/1tKtYwYj/Planetof-The-Apes-BG.jpg"
+      },
+      {
+        "id": "55cd98d9-ab77-4cf2-a660-6582cf6f7630",
+        "title": "Jurassic World",
+        "sources": [
+          {
+            "title": "Jurassic Park Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 49
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/1zP9F4vn/vle-Ub-BFl-EGdxaazvz-BMo-Z5d-HDo-Y.webp",
+        "coverImageUrl": "https://i.postimg.cc/xCpJgLZJ/Jurassic-World-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/W31qM55p/Jurassic-World-BG.jpg"
+      },
+      {
+        "id": "2148c23d-81a4-4ca1-805f-acfb682655dd",
+        "title": "Men In Black",
+        "sources": [
+          {
+            "title": "Men in Black Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 82
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/rFFFndT1/Men-In-Black-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/X7HNTVNC/Men-In-Black-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/kXXX1VCK/Men-In-Black-BG.jpg"
+      },
+      {
+        "id": "folder-142eed43",
+        "title": "Ghostbusters",
+        "sources": [
+          {
+            "title": "Ghostbusters Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 87
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/7htHck4W/e3ed004b-4969-4109-9c9d-aef29189c433-(1)-(1).png",
+        "coverImageUrl": "https://i.postimg.cc/j5vJGHJb/Ghostbusters-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/x8CbYXK9/Ghostbusters-BG.png"
+      },
+      {
+        "id": "folder-a2d3bb63",
+        "title": "Battlestar Galactica",
+        "sources": [
+          {
+            "title": "Battlestar Galactica Movies",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 33752958
+          },
+          {
+            "title": "Battlestar Galactica Series",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 33752958
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/pdjnnSkx/Battlestar-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/JzLh2h56/Battle-Star-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/T27BpNsM/Battlestar-BG.png"
+      },
+      {
+        "id": "folder-f66bc973",
+        "title": "Rocky",
+        "sources": [
+          {
+            "title": "Rocky Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 92
+          },
+          {
+            "title": "Creed Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 5624710
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/Tw7L8X3V/Rocky-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/V6GryckF/Rocky-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/cH9gqNLM/Rocky-BG.jpg"
+      },
+      {
+        "id": "311f8d8f-ae99-4cc3-bcde-9afdbf34b1cd",
+        "title": "James Bond",
+        "sources": [
+          {
+            "title": "James Bond Collection",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 41
+          },
+          {
+            "title": "Collection: James Bond - Sean Connery",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 11754060
+          },
+          {
+            "title": "Collection: James Bond - Roger Moore",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 11754031
+          },
+          {
+            "title": "Collection: James Bond - Timothy Dalton",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 11754010
+          },
+          {
+            "title": "Collection: James Bond - Pierce Brosnan",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 11753990
+          },
+          {
+            "title": "Collection: James Bond - Daniel Craig",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 11753899
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/RFGnj7nx/007-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/PJRvqd4D/James-Bond-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/SRszqnWz/James-Bond-BG.png"
+      },
+      {
+        "id": "518ba136-5847-4f15-9c58-a1d01b7e1d8b",
+        "title": "Monty Python",
+        "sources": [
+          {
+            "title": "Monty Python Movies",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 22236190
+          },
+          {
+            "title": "Monty Python Series",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 22236190
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/Kv0WqWNq/Python-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/4NRMpgW1/Monty-Python-Button.png",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/fTQFYN8x/Monty-Python-BG.png"
+      },
+      {
+        "id": "6ef2e1e3-1e33-4608-b9e8-0f10a7ef4810",
+        "title": "F1",
+        "sources": [
+          {
+            "title": "F1 (Formula-1) Movies",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 24502178
+          },
+          {
+            "title": "F1 (Formula-1) Series",
+            "sortBy": "rank",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "TV",
+            "traktListId": 24502178
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/fTKyCYSk/F1-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/15HXBDVF/F1-Tile.png",
+        "catalogSources": [],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/sDcxm5Gx/F1-BG.jpg"
+      },
+      {
+        "id": "folder-516b0b3d",
+        "title": "It's Aliens",
+        "sources": [
+          {
+            "title": "It's Aliens",
+            "sortBy": "released",
+            "sortHow": "asc",
+            "provider": "trakt",
+            "mediaType": "MOVIE",
+            "traktListId": 33753562
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/d33f6Ng3/Aliens.png",
+        "catalogSources": [],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-7af5e5cd",
+    "title": "Holiday Specials",
+    "folders": [
+      {
+        "id": "folder-4669c314",
+        "title": "Christmas",
+        "sources": [
+          {
+            "type": "Christmas Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.8113"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/Navidad/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/FESTIVIDADES/Untitled_design_10.png",
+        "catalogSources": [
+          {
+            "type": "Christmas Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.8113"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/Navidad/IMG_5987.jpeg"
+      },
+      {
+        "id": "folder-16c31f7f",
+        "title": "Thanksgiving",
+        "sources": [
+          {
+            "type": "Thanksgiving Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.7943"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/Thanksgiving/Untitled%20design%20(5)-converted-from-png.webp",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/FESTIVIDADES/63EC2AAA-9FD9-462F-A046-57EFB7EF9359.png",
+        "catalogSources": [
+          {
+            "type": "Thanksgiving Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.7943"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/Thanksgiving/723DA15F-73B8-4AF1-ABBF-9FED8BC354E7.png"
+      },
+      {
+        "id": "folder-ed669df1",
+        "title": "Halloween",
+        "sources": [
+          {
+            "type": "Best Halloween Movies of All Time",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.41422"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/Halloween/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/FESTIVIDADES/4906B024-781D-4190-B8C6-61CF97BD2C7A.png",
+        "catalogSources": [
+          {
+            "type": "Best Halloween Movies of All Time",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.41422"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20Franquicias/Viernes%2013/Apes.png"
+      },
+      {
+        "id": "folder-6d48793c",
+        "title": "Valentine’s Day",
+        "sources": [
+          {
+            "type": "Top Valentine's Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.142222"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/San%20Valentin/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/FESTIVIDADES/9EC1464E-9105-4D6D-843D-4C2907F20936.png",
+        "catalogSources": [
+          {
+            "type": "Top Valentine's Movies",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.142222"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/San%20Valentin/IMG_5997.jpeg"
+      },
+      {
+        "id": "folder-dd2c2f80",
+        "title": "St. Patrick’s Day",
+        "sources": [
+          {
+            "type": "St. Patrick's Day",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.mv94"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/St%20Patrick%E2%80%99s/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/FESTIVIDADES/371D9385-FDA6-4681-90CA-24A77282F0A8.png",
+        "catalogSources": [
+          {
+            "type": "St. Patrick's Day",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.mv94"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/St%20Patrick%E2%80%99s/IMG_6006.jpeg"
+      },
+      {
+        "id": "folder-13c538c1",
+        "title": "Day of the Dead",
+        "sources": [
+          {
+            "type": "Day of the Dead: Mexican Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.HSJte"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/D%C3%ADa%20de%20los%20muertos/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/FESTIVIDADES/2815F676-A683-4CE3-BD2E-0037216A814D.png",
+        "catalogSources": [
+          {
+            "type": "Day of the Dead: Mexican Horror",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.HSJte"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/D%C3%ADa%20de%20los%20muertos/511C4A26-2661-4A1A-A9E7-D3926E8BE8A2.png"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "ROWS",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-b48a9ba9",
+    "title": "Awards & Festivals",
+    "folders": [
+      {
+        "id": "folder-9f20fdd5",
+        "title": "Academy Awards",
+        "sources": [
+          {
+            "type": "Best Picture Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.4rnwU"
+          },
+          {
+            "type": "Best Actress Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.Tg63e"
+          },
+          {
+            "type": "Best Actor Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.Tg65O"
+          },
+          {
+            "type": "Best Director Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.Tg5Sq"
+          },
+          {
+            "type": "Best Original Song Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.Tg5MW"
+          },
+          {
+            "type": "Best International Film Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.Tg5WW"
+          },
+          {
+            "type": "Best Sound Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.Tg5o6"
+          },
+          {
+            "type": "Best Documentary Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.Tg546"
+          },
+          {
+            "type": "Best Visual Effects Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.Tg4WG"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/Oscars/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Premios%20y%20festivales/CF8A1A2E-AE20-4ECE-A1DC-9C74E7BD1590.png",
+        "catalogSources": [
+          {
+            "type": "Best Picture Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.4rnwU"
+          },
+          {
+            "type": "Best Actress Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.Tg63e"
+          },
+          {
+            "type": "Best Actor Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.Tg65O"
+          },
+          {
+            "type": "Best Director Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.Tg5Sq"
+          },
+          {
+            "type": "Best Original Song Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.Tg5MW"
+          },
+          {
+            "type": "Best International Film Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.Tg5WW"
+          },
+          {
+            "type": "Best Sound Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.Tg5o6"
+          },
+          {
+            "type": "Best Documentary Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.Tg546"
+          },
+          {
+            "type": "Best Visual Effects Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.Tg4WG"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/Oscars/8C31D72D-5F0C-4ACA-8868-783AB9AD9FEE.png"
+      },
+      {
+        "id": "folder-13ece7fb",
+        "title": "Cannes Film Festival",
+        "sources": [
+          {
+            "type": "Cannes Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.5BNSw"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/Cannes/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Premios%20y%20festivales/DB2BA8ED-0322-4397-9C14-4AC7E4872FE3.png",
+        "catalogSources": [
+          {
+            "type": "Cannes Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.5BNSw"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/Cannes/IMG_5963.jpeg"
+      },
+      {
+        "id": "folder-5b1951d2",
+        "title": "Venice Film Festival",
+        "sources": [
+          {
+            "type": "Venice Festival Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.146622"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/Venezia/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Premios%20y%20festivales/DEA2D8C2-9B9A-4073-B09A-DB482E3998E9.png",
+        "catalogSources": [
+          {
+            "type": "Venice Festival Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.146622"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/Venezia/IMG_5949.jpeg"
+      },
+      {
+        "id": "folder-a00cce39",
+        "title": "BAFTA",
+        "sources": [
+          {
+            "type": "BAFTA Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.Tjz42"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/BAFTA/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Premios%20y%20festivales/6DD3165E-C616-4EA7-B215-94881217BF96.png",
+        "catalogSources": [
+          {
+            "type": "BAFTA Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.Tjz42"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/BAFTA/IMG_5934.jpeg"
+      },
+      {
+        "id": "folder-ffe6c50b",
+        "title": "Golden Globes",
+        "sources": [
+          {
+            "type": "Golden Globe Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.149615"
+          },
+          {
+            "type": "2026 Golden Globe Nominees",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.129917"
+          },
+          {
+            "type": "Actors & Actresses Nominees",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.129385"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/Golden%20Globes/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Premios%20y%20festivales/7ACD5C2D-DB08-46A7-9485-2731D1BB9955.png",
+        "catalogSources": [
+          {
+            "type": "Golden Globe Winners",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.149615"
+          },
+          {
+            "type": "2026 Golden Globe Nominees",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.129917"
+          },
+          {
+            "type": "Actors & Actresses Nominees",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.129385"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festivales/Golden%20Globes/IMG_5942.jpeg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  }
+]
