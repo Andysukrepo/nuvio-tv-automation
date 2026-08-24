@@ -12,7 +12,7 @@
             "genre": "",
             "addonId": "org.stremio.aiolists",
             "provider": "addon",
-            "catalogId": "aiolists-111876-E"
+            "catalogId": "mdblist.ext_111876"
           }
         ],
         "hideTitle": true,
@@ -27,7 +27,7 @@
             "type": "series",
             "genre": "",
             "addonId": "org.stremio.aiolists",
-            "catalogId": "aiolists-111876-E"
+            "catalogId": "mdblist.ext_111876"
           }
         ],
         "focusGifEnabled": false,
@@ -42,7 +42,7 @@
             "genre": "",
             "addonId": "org.stremio.aiolists",
             "provider": "addon",
-            "catalogId": "aiolists-111835-E"
+            "catalogId": "mdblist.ext_111835"
           }
         ],
         "hideTitle": true,
@@ -57,7 +57,7 @@
             "type": "series",
             "genre": "",
             "addonId": "org.stremio.aiolists",
-            "catalogId": "aiolists-111835-E"
+            "catalogId": "mdblist.ext_111835"
           }
         ],
         "focusGifEnabled": false,
@@ -72,7 +72,7 @@
             "genre": "",
             "addonId": "org.stremio.aiolists",
             "provider": "addon",
-            "catalogId": "aiolists-154041-E"
+            "catalogId": "mdblist.ext_154041"
           }
         ],
         "hideTitle": true,
@@ -87,7 +87,7 @@
             "type": "series",
             "genre": "",
             "addonId": "org.stremio.aiolists",
-            "catalogId": "aiolists-154041-E"
+            "catalogId": "mdblist.ext_154041"
           }
         ],
         "focusGifEnabled": false,
