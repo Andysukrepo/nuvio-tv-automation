@@ -6,15 +6,10 @@ INPUT_FILE = "nuvio_config.json"
 OUTPUT_FILE = "nuvio_config_automated.json"
 
 # --- PERSONAL TRACKING CONFIGURATION OVERLAYS ---
-# Swapping layout parameters with your precise MdbList direct numerical IDs
-TRAKT_MUMS_LIST = "mdblist.ext_111876"
-TRAKT_DADS_LIST = "mdblist.ext_111835"
-TRAKT_BETHS_LIST = "mdblist.ext_154041"
-
-# Keep your standard trending rows running safely underneath
-MDBLIST_TRENDING_MOVIES = "mdblist.13914" 
-MDBLIST_TRENDING_SERIES = "mdblist.13963"
-
+# Your exact live MdbList numerical folder tags
+TRAKT_MUMS_LIST = "mdblist.111876"
+TRAKT_DADS_LIST = "mdblist.111835"
+TRAKT_BETHS_LIST = "mdblist.154041"
 
 def run_advanced_automation():
     print("Initializing Cloud Automation Sync Engine...")
@@ -30,9 +25,8 @@ def run_advanced_automation():
         print(f"\n[ERROR] Formatting Issue: Could not read your JSON data: {e}")
         return
 
-    # Fetch current calendar tracking variables dynamically
     current_month = datetime.now().month
-    print(f"File loaded perfectly! Processing calendar rules for month index: {current_month}")
+    print(f"File loaded perfectly! Processing calendar month index: {current_month}")
 
     for collection in data:
         title = collection.get("title", "").strip()
@@ -42,13 +36,9 @@ def run_advanced_automation():
         if "Holiday Specials" in title:
             print(" -> Processing Holiday Specials seasonal priority queue...")
             seasonal_priority = {
-                10: "Halloween",
-                11: "Thanksgiving",
-                12: "Christmas",
-                2: "Valentine's Day",
-                3: "St. Patrick's Day"
+                10: "Halloween", 11: "Thanksgiving", 12: "Christmas",
+                2: "Valentine's Day", 3: "St. Patrick's Day"
             }
-            
             target_folder_name = seasonal_priority.get(current_month)
             if target_folder_name:
                 target_idx = next((i for i, f in enumerate(folders) if f.get("title") == target_folder_name), None)
@@ -57,15 +47,15 @@ def run_advanced_automation():
                     active_folder = folders.pop(target_idx)
                     folders.insert(0, active_folder)
                     
-        # --- 2. AUTOMATION MODULE: TRAKT DYNAMIC INJECTIONS ---
+        # --- 2. AUTOMATION MODULE: FAMILY TRACKING DIRECT AD_ON OVERRIDES ---
         elif "Our Shows" in title:
-            print(" -> Injecting live tracking paths into profile nodes...")
+            print(" -> Transforming family profile rows into native MdbList nodes...")
             for folder in folders:
                 folder_title = folder.get("title", "").lower()
                 sources = folder.get("sources", [])
                 cat_sources = folder.get("catalogSources", [])
                 
-                # Match folders to target live server configurations
+                # Assign the correct direct catalog ID number
                 target_id = None
                 if "mum" in folder_title:
                     target_id = TRAKT_MUMS_LIST
@@ -75,11 +65,14 @@ def run_advanced_automation():
                     target_id = TRAKT_BETHS_LIST
                 
                 if target_id:
-                    print(f"   -> Updating tracking strings for loop folder: {folder.get('title')}")
+                    print(f"   -> Remapping framework engines for folder: {folder.get('title')}")
+                    # Loop through Nuvio's internal sources block and change the core engine parameters
                     for src in sources + cat_sources:
-                        if src.get("addonId") == "org.stremio.aiolists":
-                            src["catalogId"] = target_id
-                    
+                        src["addonId"] = "aio-metadata"
+                        src["catalogId"] = target_id
+                        if "type" in src and src["type"] == "series":
+                            src["type"] = "All Series on Netflix" # Standardizes query parsing paths
+
         # --- 3. AUTOMATION MODULE: STREAMING PLATFORM VERIFICATION ---
         elif "Streaming Platforms" in title:
             has_peacock = any(f.get("title") == "Peacock" for f in folders)
@@ -98,12 +91,10 @@ def run_advanced_automation():
                     "heroBackdropUrl": "https://r2.dev"
                 })
 
-    # Save the finalized configurations out to your disk
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
         
-    print(f"\n[SUCCESS] Custom files updated and written to disk: '{OUTPUT_FILE}'")
+    print(f"\n[SUCCESS] Direct MdbList architecture compiled cleanly: '{OUTPUT_FILE}'")
 
 if __name__ == "__main__":
     run_advanced_automation()
-    
