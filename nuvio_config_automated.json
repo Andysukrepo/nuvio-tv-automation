@@ -8,11 +8,11 @@
         "title": "Mums Shows",
         "sources": [
           {
-            "type": "series",
+            "type": "All Series on Netflix",
             "genre": "",
-            "addonId": "org.stremio.aiolists",
+            "addonId": "aio-metadata",
             "provider": "addon",
-            "catalogId": "mdblist.ext_111876"
+            "catalogId": "mdblist.111876"
           }
         ],
         "hideTitle": true,
@@ -24,10 +24,10 @@
         "coverImageUrl": "https://i.ibb.co/Rprs4dvx/MUMS-TV-SHOWSCOVER.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "All Series on Netflix",
             "genre": "",
-            "addonId": "org.stremio.aiolists",
-            "catalogId": "mdblist.ext_111876"
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.111876"
           }
         ],
         "focusGifEnabled": false,
@@ -38,11 +38,11 @@
         "title": "DADS TV SHOWS",
         "sources": [
           {
-            "type": "series",
+            "type": "All Series on Netflix",
             "genre": "",
-            "addonId": "org.stremio.aiolists",
+            "addonId": "aio-metadata",
             "provider": "addon",
-            "catalogId": "mdblist.ext_111835"
+            "catalogId": "mdblist.111835"
           }
         ],
         "hideTitle": true,
@@ -54,10 +54,10 @@
         "coverImageUrl": "https://i.ibb.co/kVFrqXC5/DADSCOVER.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "All Series on Netflix",
             "genre": "",
-            "addonId": "org.stremio.aiolists",
-            "catalogId": "mdblist.ext_111835"
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.111835"
           }
         ],
         "focusGifEnabled": false,
@@ -68,11 +68,11 @@
         "title": "BETHS TV SHOWS",
         "sources": [
           {
-            "type": "series",
+            "type": "All Series on Netflix",
             "genre": "",
-            "addonId": "org.stremio.aiolists",
+            "addonId": "aio-metadata",
             "provider": "addon",
-            "catalogId": "mdblist.ext_154041"
+            "catalogId": "mdblist.154041"
           }
         ],
         "hideTitle": true,
@@ -84,10 +84,10 @@
         "coverImageUrl": "https://i.ibb.co/B2VNyt6R/6.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "All Series on Netflix",
             "genre": "",
-            "addonId": "org.stremio.aiolists",
-            "catalogId": "mdblist.ext_154041"
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.154041"
           }
         ],
         "focusGifEnabled": false,
