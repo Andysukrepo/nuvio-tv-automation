@@ -6,11 +6,10 @@ INPUT_FILE = "nuvio_config.json"
 OUTPUT_FILE = "nuvio_config_automated.json"
 
 # --- PERSONAL TRACKING CONFIGURATION OVERLAYS ---
-# Your exact Trakt username and the slugs matching your URLs
-TRAKT_USERNAME = "andybccuk"
-TRAKT_MUMS_LIST = "mums-tv-shows"
-TRAKT_DADS_LIST = "dads-tv-shows"
-TRAKT_BETHS_LIST = "beths-tv-shows"
+# Restoring your original, perfectly working stable system IDs
+TRAKT_MUMS_LIST = "aiolists-111876-E"
+TRAKT_DADS_LIST = "aiolists-111835-E"
+TRAKT_BETHS_LIST = "aiolists-154041-E"
 
 def run_advanced_automation():
     print("Initializing Cloud Automation Sync Engine...")
@@ -48,33 +47,28 @@ def run_advanced_automation():
                     active_folder = folders.pop(target_idx)
                     folders.insert(0, active_folder)
                     
-        # --- 2. AUTOMATION MODULE: AIOMETADATA USER LIST INJECTIONS ---
+        # --- 2. AUTOMATION MODULE: RESTORE STABLE DYNAMIC INJECTIONS ---
         elif "Our Shows" in title:
-            print(" -> Restructuring family profile rows into aiometadata Trakt nodes...")
+            print(" -> Injecting original stable tracking paths into profile nodes...")
             for folder in folders:
                 folder_title = folder.get("title", "").lower()
                 sources = folder.get("sources", [])
                 cat_sources = folder.get("catalogSources", [])
                 
-                # Match folder titles to your target Trakt list strings
-                target_slug = None
+                # Match folders to the original stable server configurations
+                target_id = None
                 if "mum" in folder_title:
-                    target_slug = TRAKT_MUMS_LIST
+                    target_id = TRAKT_MUMS_LIST
                 elif "dad" in folder_title:
-                    target_slug = TRAKT_DADS_LIST
+                    target_id = TRAKT_DADS_LIST
                 elif "beth" in folder_title:
-                    target_slug = TRAKT_BETHS_LIST
+                    target_id = TRAKT_BETHS_LIST
                 
-                if target_slug:
-                    print(f"   -> Mapping aiometadata Trakt paths for folder: {folder.get('title')}")
-                    
-                    # AIOMETADATA USER LIST SYNTAX RULE:
-                    # Formatted as: 'trakt.list.username.list-slug'
-                    native_catalog_id = f"trakt.list.{TRAKT_USERNAME}.{target_slug}"
-                    
+                if target_id:
+                    print(f"   -> Re-linking stable working IDs for folder: {folder.get('title')}")
                     for src in sources + cat_sources:
-                        src["addonId"] = "aio-metadata"
-                        src["catalogId"] = native_catalog_id
+                        src["addonId"] = "org.stremio.aiolists"
+                        src["catalogId"] = target_id
                         src["type"] = "series"
 
         # --- 3. AUTOMATION MODULE: STREAMING PLATFORM VERIFICATION ---
@@ -98,7 +92,7 @@ def run_advanced_automation():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
         
-    print(f"\n[SUCCESS] Custom files updated and written to disk: '{OUTPUT_FILE}'")
+    print(f"\n[SUCCESS] Original working architecture restored cleanly: '{OUTPUT_FILE}'")
 
 if __name__ == "__main__":
     run_advanced_automation()
