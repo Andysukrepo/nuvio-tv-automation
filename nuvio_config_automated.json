@@ -4508,6 +4508,33 @@
     "title": "Holiday Specials",
     "folders": [
       {
+        "id": "folder-ed669df1",
+        "title": "Halloween",
+        "sources": [
+          {
+            "type": "Best Halloween Movies of All Time",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.41422"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/Halloween/Untitled%20design.png",
+        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/FESTIVIDADES/4906B024-781D-4190-B8C6-61CF97BD2C7A.png",
+        "catalogSources": [
+          {
+            "type": "Best Halloween Movies of All Time",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.41422"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20Franquicias/Viernes%2013/Apes.png"
+      },
+      {
         "id": "folder-4669c314",
         "title": "Christmas",
         "sources": [
@@ -4560,33 +4587,6 @@
         ],
         "focusGifEnabled": false,
         "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/Thanksgiving/723DA15F-73B8-4AF1-ABBF-9FED8BC354E7.png"
-      },
-      {
-        "id": "folder-ed669df1",
-        "title": "Halloween",
-        "sources": [
-          {
-            "type": "Best Halloween Movies of All Time",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "mdblist.41422"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "titleLogoUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20festividades/Halloween/Untitled%20design.png",
-        "coverImageUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/FESTIVIDADES/4906B024-781D-4190-B8C6-61CF97BD2C7A.png",
-        "catalogSources": [
-          {
-            "type": "Best Halloween Movies of All Time",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.41422"
-          }
-        ],
-        "focusGifEnabled": false,
-        "heroBackdropUrl": "https://pub-c3220058d0b8427593faaf225ea539fd.r2.dev/Backdrops%20Franquicias/Viernes%2013/Apes.png"
       },
       {
         "id": "folder-6d48793c",
